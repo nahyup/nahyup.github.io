@@ -9,56 +9,67 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+Research Interests
+-----
+
+* Neural Graphics & Visual Computing
+* Machine Learning including On-device AI
+* XR & Immersive Media
+* Physics-based Modeling & Simulation
+* Advanced Rendering
+
+
 
 Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+-----
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2025-present: Group Lead / Project Lead / Principal Engineer
+  * Samsung S.LSI, Korea
+  * Direct R&D on Neural Graphics Solutions for Samsung Exynos SoCs
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2022-2025: Project Lead / Principal Researcher
+  * Samsung Advanced Institute of Technology (SAIT), Korea
+  * Initiate and led a new AI-graphics project in Samsung Electronics
+
+* 2018-2021: Principal Researcher
+  * Samsung Advanced Institute of Technology (SAIT), Korea
+  * R&D on AI based Augmented Reality and Computational Photography
+
+* 2010-2017: Staff Researcher
+  * Samsung Advanced Institute of Technology (SAIT), Korea
+  * R&D on Mobile Graphics, Medical Imaging, and Augmented Reality
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+
+Education
+-----
+
+* 2010: Ph.D in Computer Science, 
+  * Computer Graphics Lab. (Supervised by Prof. Sung Yong Shin)
+  * Theory of Computation Group
+  * Korea Advanced Institute of Technology (KAIST), 2004-2010
+  * Dissertation: "A Hybrid Approach to Multiple Fluid Simulation using Volume Fractions"
+
+* 2004: B.S. in Computer Science,
+  * Korea Advanced Institute of Technology (KAIST), 1999-2004
+
+* 1999: Gangwon Science High School, 1997-1999
+
+
+Awards and Honors
+-----
+
+* 2025: Outstanding Achievement - Silver Medal, Samsung S.LSI
+* 2023: Project Achievement - Excellence Awards, SAIT
+* 2022: Idea Challenge - Grand Prize, SAIT
+* 2020: Achievement Awards - 3D Volume Rendering Project, SAIT
+* 2014: Muhantamgu Awards - Best Research Project, SAIT
+* 2014: Research Image Contest - 2nd Prize, SAIT
+
 
 Publications
-======
+-----
+
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
