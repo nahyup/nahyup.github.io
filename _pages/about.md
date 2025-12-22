@@ -11,7 +11,7 @@ Experienced AI‑powered visual computing with a decade of R&D at Samsung Advanc
 Proven track record delivering neural supersampling, frame generation, and ray‑tracing denoising for next‑generation smartphones. Holds a Ph.D. from KAIST and multiple patents. Expertise spans computer graphics, computer vision, machine learning, computational photography, photorealistic rendering, and XR, with hands‑on experience in physics‑based modeling and simulation integrated with deep learning.
 
 
-#### News, 12-19-2025
+## News, 12-19-2025
 
 Excited to announce that Exynos ENSS (Exynos Neural Super Sampling) is finally on [Youtube](https://lnkd.in/gADQ7iwx)! 
 ![ENSS](../images/enss.png)
